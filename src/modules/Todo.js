@@ -10,7 +10,6 @@ export default class Todo {
 
   get() {
     return this.tasks;
-    return this;
   }
 
   set(tasks) {
